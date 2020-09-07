@@ -1,0 +1,22 @@
+#left-arm {
+  transform-box: fill-box;
+  transform-origin: right;
+  transform: rotateZ(-75deg);
+}
+
+#right-arm {
+  transform-box: fill-box;
+  transform-origin: top;
+}
+
+#front-paper {
+  transform: translate(-24.5%, -33%);
+}
+
+#mid-paper {
+  opacity: 0;
+}
+
+#last-paper {
+  opacity: 0;
+}
