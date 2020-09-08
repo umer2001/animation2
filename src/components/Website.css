@@ -1,0 +1,28 @@
+#big-box-shadow,
+#box1-shadow,
+#box2-shadow,
+#box3-shadow {
+  opacity: 0;
+}
+
+#box1,
+#box2,
+#box3 {
+  opacity: 0;
+  transform: translateY(22%);
+}
+
+#big-box {
+  opacity: 0;
+  transform: translateY(-20%);
+}
+
+#sun {
+  opacity: 0;
+  transform: translateX(-15%);
+}
+
+#mountain {
+  opacity: 0;
+  transform: translateX(15%);
+}
